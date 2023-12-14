@@ -1,4 +1,4 @@
-//Method firstWhere();
+//Method lastWhere();
 void main() {
   var Players = ["Rohit", "Shubman", "KLRahul", "Shreyas", "Hardik"];
 
